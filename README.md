@@ -1,6 +1,9 @@
 # 💫 About Me:
-    👋 Hi, I’m @neotherack<br>    👀 I’m interested in AI and computing<br>    🌱 I’m currently learning Chinese, AWS and sailing.<br>    💞️ I’m looking to collaborate on something joining Biology (my wife's specialty) and computing (mine)<br>    📫 How to reach me @fvallejoluna on Twitter or neotherack@gmail.com<br><br>
-
+    👋 Hi, I’m @neotherack
+    👀 I’m interested in AI and computing
+    🌱 I’m currently learning Chinese, AWS and sailing.
+    💞️ I’m looking to collaborate on something joining Biology (my wife's specialty) and computing (mine)
+    📫 How to reach me @fvallejoluna on Twitter or neotherack@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franvallejoluna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscovallejoluna) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@fvallejoluna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neotherack@gmail.com) 
