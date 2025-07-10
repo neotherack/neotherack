@@ -1,5 +1,5 @@
 # 💫 About Me:
-    👋 Hi, I’m @neotherack
+    👋 Hi, I’m Fran Vallejo @neotherack. I'm an +15years experienced Spanish SW Solution consultant. 
     👀 I’m interested in AI and computing
     🌱 I’m currently learning Chinese, AWS and sailing.
     💞️ I’m looking to collaborate on something joining Biology (my wife's specialty) and computing (mine)
